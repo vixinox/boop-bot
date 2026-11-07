@@ -1,0 +1,7 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 90,
+  "ignorePatterns": ["node_modules", "dist", "pnpm-lock.yaml", ".vscode"]
+}
